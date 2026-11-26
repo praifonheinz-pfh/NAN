@@ -9,7 +9,7 @@ const TRIP = {
   region: "น่าน / ไทยแลนด์",
   days: [
     {id:1,date:"Day 01 · ระบุวันที่",title:"วันแรก — เริ่มต้นการเดินทาง",summary:"ใส่รายละเอียดภาพรวมของวันนี้",places:[
-      {time:"09:00",name:"ร้านวันดาข้าวแกง",type:"ร้านอาหาร",lat:18.775548,lng:100.7774808,address:"",mapsUrl:""},
+      {time:"09:00",name:"ร้านวันดาข้าวแกง",type:"ร้านอาหาร",lat:18.775548,lng:100.7774808,address:"",mapsUrl:"https://maps.app.goo.gl/w1QsViM8BxGCZ7NJA"},
       {time:"12:00",name:"ร้านอาหารตัวอย่าง",type:"อาหาร",description:"แวะรับประทานอาหารกลางวัน",lat:13.7465,lng:100.5340,address:"กรุงเทพมหานคร",mapsUrl:""},
       {time:"14:00",name:"ที่พักตัวอย่าง",type:"ที่พัก",description:"เช็กอินและพักผ่อน",lat:13.7308,lng:100.5418,address:"กรุงเทพมหานคร",mapsUrl:""}
     ]},
